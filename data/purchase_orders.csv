@@ -1,0 +1,11 @@
+purchase_order_id,supplier_id,component_id,quantity,promised_receipt_date,reported_delay_days,supplier_reported_eta,shipment_status,transport_eta,transport_milestone
+PO-1001,SUP-001,CMP-AXLE,500,2026-09-08,9,2026-09-17,delayed,2026-09-17,delayed
+PO-1002,SUP-001,CMP-BEARING,500,2026-09-08,9,2026-09-17,in_transit,2026-09-08,on_schedule
+PO-1003,SUP-002,CMP-PUMP,300,2026-09-10,,2026-09-10,in_transit,2026-09-10,on_schedule
+PO-1004,SUP-002,CMP-SEAL,800,2026-09-12,12,2026-09-24,delayed,2026-09-24,delayed
+PO-1005,SUP-ALT-02,CMP-VALVE,250,2026-09-09,2,2026-09-11,in_transit,2026-09-11,on_schedule
+PO-1006,SUP-003,CMP-GEAR,600,2026-09-11,5,2026-09-16,delayed,2026-09-16,delayed
+PO-1007,SUP-004,CMP-FILTER,400,2026-09-07,3,2026-09-10,in_transit,2026-09-10,on_schedule
+PO-1008,SUP-001,CMP-HOUSING,200,2026-09-08,6,2026-09-14,in_transit,2026-09-08,on_schedule
+PO-1009,SUP-004,CMP-SENSOR,150,2026-09-08,4,2026-09-12,in_transit,2026-09-12,delayed
+PO-1010,SUP-005,CMP-BRACKET,700,2026-09-09,8,2026-09-17,delayed,2026-09-17,delayed

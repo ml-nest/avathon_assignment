@@ -1,0 +1,4 @@
+crewai[google-genai]==1.8.1
+litellm==1.74.9
+pydantic==2.11.9
+streamlit==1.51.0

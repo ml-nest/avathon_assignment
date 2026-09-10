@@ -1,0 +1,8 @@
+supplier_id,name,reliability_score,normal_lead_time_days,expedite_available,expedite_cost,alternate_supplier_id
+SUP-001,NorthStar Components,0.91,14,true,4500,SUP-ALT-01
+SUP-ALT-01,Orion Qualified Supply,0.87,18,false,,
+SUP-002,Pacific Precision Parts,0.76,21,false,,SUP-ALT-02
+SUP-ALT-02,Meridian Contract Manufacturing,0.94,12,true,6200,
+SUP-003,Atlas Industrial Works,0.62,10,true,5100,
+SUP-004,BluePeak Materials,0.98,7,true,3900,
+SUP-005,Delta Basic Components,0.83,16,false,,
